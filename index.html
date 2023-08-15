@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
 <html>
     <head>
         <!--Stylesheet-->
@@ -9,13 +8,16 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap" rel="stylesheet">
         <!--Javascript-->
-        <script src="script.js"></script>
+        <script type="text/javascript" src="script.js" defer></script>
         <title>Sandeep's Resource Hub</title>
     </head>
     <body>
-        <button class="night-mode-button" onclick="nightMode()">
-            <img src="https://cdn-icons-png.flaticon.com/512/6714/6714978.png"
-            alt="Toggle night mode" width="30" height="30"></button>
+        <div id="menu">
+            <button class="night-mode-button" onclick="nightMode()">
+                <img src="https://cdn-icons-png.flaticon.com/512/6714/6714978.png" 
+                alt="Toggle night mode" width="30" height="30"></button> 
+            <span id="clock">Here goes the clock</span>
+        </div> 
         <div id="content">
             <div id="introduction">
                 <h1 class="intro">Resource Hub</h1>
