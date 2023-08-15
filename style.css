@@ -1,9 +1,16 @@
 body {
     background-color: #E5E8B6;
-    margin: 5em 25em;
-    padding-left: ;
 }
 
+#content {
+    margin: 5em 25em;
+}
+
+.night-mode {
+    background-color:#001300;
+    color: #faebd7;
+}
+ 
 h1, h2, h3, p, a {
     font-family: 'Yeseva One', cursive;
 }
@@ -22,10 +29,16 @@ p.intro {
 }
 
 .resource {
-    background-color: antiquewhite;
+    background-color: #faebd7;
     border-radius: 5em;
     text-align: center;
     margin-bottom: 1em;
+}
+
+#introduction {
+    background-color: #faebd7;
+    border-radius: 1em;
+    padding: 1em;
 }
 
 li {
