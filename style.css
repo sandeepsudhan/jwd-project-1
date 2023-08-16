@@ -11,7 +11,7 @@ body {
     color: #faebd7;
 }
  
-h1, h2, h3, p, a {
+h1, h2, h3, p, a, span {
     font-family: 'Yeseva One', cursive;
 }
 
@@ -26,6 +26,20 @@ p.intro {
     color: #2E5339;
     font-style: italic;
     text-align: center;
+}
+
+.night-mode-button {
+    background-color: antiquewhite;
+    border-radius: 5em;
+}
+
+#clock {
+    font-size: 2em;
+    background-color: antiquewhite;
+    color:#2E5339;
+    max-width: max-content;
+    border-radius: 5em;
+    padding: .25em;
 }
 
 .resource {
