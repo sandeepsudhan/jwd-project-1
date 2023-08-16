@@ -1,2 +1,11 @@
-# jwd-project-1
-Opportunity College JWD Cohort -- Project 1 -- "Resource Hub."
+# Purpose of "Resource Hub"
+This webpage seeks to benefit beginner HTML, CSS, Javascript programmers (or web developers) by providing a one-stop hub for useful resources such as: Guides, cheatsheets, IDE's, etc. The webpage itself was created using HTML, CSS and javascript.
+# Author
+The "Resource Hub" was created by Sandeep S. for submission to the Web-Development course in [Opportunity College](https://www.opcollege.org/). I'm enrolled into the ['Web Development - Part Time Program'](https://www.opcollege.org/web-development). I use a Macbook-Air-2022 to begin this project, my primary IDE is ['Visual Studio Code'](https://code.visualstudio.com/).
+# Instructions to test the webpage
+1. Make sure there are no files called: 'index.html', 'script.js', 'style.css' on your computer.
+2. Install raw files of the following into a folder:
+   [index.html](https://github.com/sandeepsudhan/jwd-project-1/blob/main/index.html)
+   [script.js](https://github.com/sandeepsudhan/jwd-project-1/blob/main/script.js)
+   [style.css](https://github.com/sandeepsudhan/jwd-project-1/blob/main/style.css)
+3. Open 'index.html' with a modern browser such as: Chrome, Firefox or Safari.
